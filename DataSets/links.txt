@@ -39,3 +39,14 @@ https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mn
 https://towardsdatascience.com/data-science-with-python-intro-to-loading-and-subsetting-data-with-pandas-9f26895ddd7f
 
 https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+
+https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
+ 
+https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
+ 
+https://medium.com/data-science-group-iitr/regularization-a-smooth-trick-to-increase-robustness-of-regression-models-a5e8a91737ff
+
+https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166
+
+https://www.teraplot.com/data-analysis-plot-types
+
