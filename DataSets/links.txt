@@ -50,3 +50,9 @@ https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf
 
 https://www.teraplot.com/data-analysis-plot-types
 
+https://www2.1010data.com/documentationcenter/prod/Tutorials/MachineLearningExamples/LogisticRegression.html
+
+http://www.statisticssolutions.com/wp-content/uploads/wp-post-to-pdf-enhanced-cache/1/assumptions-of-logistic-regression.pdf
+
+https://www.accenture.com/us-en/blogs/blogs-leveraging-warranting-analytics
+(Very important internal links)
