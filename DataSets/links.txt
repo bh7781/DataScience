@@ -56,3 +56,17 @@ http://www.statisticssolutions.com/wp-content/uploads/wp-post-to-pdf-enhanced-ca
 
 https://www.accenture.com/us-en/blogs/blogs-leveraging-warranting-analytics
 (Very important internal links)
+
+https://intellipaat.com/interview-question/data-science-interview-questions/
+
+https://medium.com/@skyetetra/hiring-data-scientists-part-1-2813ba44be9b
+
+
+
+Decision Trees
+http://scikit-learn.org/stable/modules/tree.html
+https://www.saedsayad.com/decision_tree.htm
+http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/
+http://dataaspirant.com/2017/02/01/decision-tree-algorithm-python-with-scikit-learn/
+http://dataaspirant.com/2017/04/21/visualize-decision-tree-python-graphviz/
+https://www.quora.com/What-is-a-laymans-explanation-of-how-decision-trees-work
