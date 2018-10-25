@@ -70,3 +70,10 @@ http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/
 http://dataaspirant.com/2017/02/01/decision-tree-algorithm-python-with-scikit-learn/
 http://dataaspirant.com/2017/04/21/visualize-decision-tree-python-graphviz/
 https://www.quora.com/What-is-a-laymans-explanation-of-how-decision-trees-work
+
+
+https://medium.com/codezillas/statistics-review-for-data-scientists-and-management-df8f94760221
+
+https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
+
+https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html
