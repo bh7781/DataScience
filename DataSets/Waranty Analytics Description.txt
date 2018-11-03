@@ -1,0 +1,27 @@
+Warranty claims from customers cost manufacturers about 2% to 6% of their revenues.
+
+ Thus, making even a small reduction in the amount paid in claims can have a huge impact on a company’s bottom line. In addition to these direct costs, there are indirect costs associated with allowing product defects to be undetected. Customer safety and trust may be at stake, which could have a detrimental impact on the manufacturer’s brand image. Manufacturers are searching for ways to reduce their claims expenses, recover more from suppliers, and detect defects sooner. Warranty analytics is a key ingredient to achieving these goals.
+
+Companies providing warranties must make key decisions, such as what warranties to offer, how much reserves to maintain, and how to monitor fraud, and opportunities. Warranty analytics can improve these decisions, which results in lower costs and improved brand reputation.
+
+Recognize the importance of managing warranty costs for companies.
+List the main reasons customers are attracted to warranties.
+Determine how to use utility functions to quantify customer preferences.
+Determine the main decisions warranty providers must make at product launch.
+Identify how warranty analytics can help warranty providers make decisions related to contacting customers and suppliers.
+Identity factors needed to establish an effective warranty analytics program
+
+Relevant data on product failures can be invaluable in identifying product defects, fraud, and anomalies.This information can be leveraged only if the right data is collected, the right analytics tools are applied, and data from different systems can be integrated.
+
+The two sources of data on product failures are warranty claims data and social media data. Structured and unstructured data may be collected through the warranty claims process, each of which require a different analysis approach. If key data is not collected, defects, fraud, and other anomalies may go undetected, resulting in excess costs and damage to brand reputation. If social media is not monitored and firms wait for warranty claims to gather data, they may miss detecting defects and anomalies quickly, which can also result in damage to brand reputation and excess costs.
+
+Recognize the importance of collecting the right data for warranty claims.
+List the key types of claims data to collect and the different ways to collect it.
+Identify data analytics techniques utilized to analyze structured data and the importance of input data validation.
+Identify data analytics techniques utilized to analyze unstructured data.
+Recognize the importance of integrating data systems.
+Identify key metrics to monitor throughout the warranty period and interpret a Nevada chart.
+Recognize how social media can be used to find data about product defects.
+
+Uncovering new areas of applications in the world of telecom and networks with the science
+of Data and Machine Learning.

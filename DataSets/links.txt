@@ -77,3 +77,7 @@ https://medium.com/codezillas/statistics-review-for-data-scientists-and-manageme
 https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
 
 https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html
+
+https://stats.stackexchange.com/questions/64208/why-do-overfitted-models-tend-to-have-large-coefficients
+
+https://docs.sqlalchemy.org/en/latest/core/engines.html#database-urls
