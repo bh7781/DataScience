@@ -83,3 +83,5 @@ https://stats.stackexchange.com/questions/64208/why-do-overfitted-models-tend-to
 https://docs.sqlalchemy.org/en/latest/core/engines.html#database-urls
 
 https://courses.lumenlearning.com/suny-natural-resources-biometrics/chapter/chapter-1-descriptive-statistics-and-the-normal-distribution/
+
+https://chrisalbon.com/machine_learning/trees_and_forests/feature_selection_using_random_forest/
