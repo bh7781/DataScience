@@ -85,3 +85,17 @@ https://docs.sqlalchemy.org/en/latest/core/engines.html#database-urls
 https://courses.lumenlearning.com/suny-natural-resources-biometrics/chapter/chapter-1-descriptive-statistics-and-the-normal-distribution/
 
 https://chrisalbon.com/machine_learning/trees_and_forests/feature_selection_using_random_forest/
+
+https://medium.com/deep-math-machine-learning-ai/chapter-7-artificial-neural-networks-with-math-bb711169481b
+
+https://machinelearningmastery.com/why-initialize-a-neural-network-with-random-weights/
+
+https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws
+
+https://nlp.stanford.edu/IR-book/html/htmledition/tokenization-1.html
+
+http://konect.uni-koblenz.de/
+
+--
+https://medium.com/@rrfd/boosting-bagging-and-stacking-ensemble-methods-with-sklearn-and-mlens-a455c0c982de
+https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ/playlists
