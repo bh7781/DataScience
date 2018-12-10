@@ -1,6 +1,6 @@
 Warranty claims from customers cost manufacturers about 2% to 6% of their revenues.
 
- Thus, making even a small reduction in the amount paid in claims can have a huge impact on a company’s bottom line. In addition to these direct costs, there are indirect costs associated with allowing product defects to be undetected. Customer safety and trust may be at stake, which could have a detrimental impact on the manufacturer’s brand image. Manufacturers are searching for ways to reduce their claims expenses, recover more from suppliers, and detect defects sooner. Warranty analytics is a key ingredient to achieving these goals.
+Thus, making even a small reduction in the amount paid in claims can have a huge impact on a company’s bottom line. In addition to these direct costs, there are indirect costs associated with allowing product defects to be undetected. Customer safety and trust may be at stake, which could have a detrimental impact on the manufacturer’s brand image. Manufacturers are searching for ways to reduce their claims expenses, recover more from suppliers, and detect defects sooner. Warranty analytics is a key ingredient to achieving these goals.
 
 Companies providing warranties must make key decisions, such as what warranties to offer, how much reserves to maintain, and how to monitor fraud, and opportunities. Warranty analytics can improve these decisions, which results in lower costs and improved brand reputation.
 
