@@ -1,0 +1,15 @@
+Sleeping cells
+http://sysmech.co.uk/machine-learning-applications/
+http://sysmech.co.uk/case_study/mobile-network-performance-management/
+
+1. Using machine learning to identify and restart sleeping cells: Towers can crash and stop operating suddenly. This could have impact on overall services. Promptly locating these sleeping cells and bringing them up is an important need in which ML can quickly help
+
+In the telecom industry, cell towers crashing could have a serious impact on the service being offered. One of the main applications of machine learning would be to identify these sleeping cells and restart them. Currently, this is done manually by telecom operators, which leads to increased downtime.
+
+https://www.analyticsinsight.net/how-machine-learning-improves-customer-service-in-telecom-industry/
+
+Cell tower across the radio network may unfortunately crash our PC or laptop. This can have a serious impact on service, especially within busy regions or busy times of the day. Machine learning can be used to analyse, learn from network performance data and identify sleeping cells and initiate an automatic restart. Currently, it is a manual process, but it is being worked upon extensively to automate it, in order to utilize the full potential of Machine Learning.
+
+https://www.researchgate.net/publication/288459474_Classification-based_approach_for_cell_outage_detection_in_self-healing_heterogeneous_networks
+
+http://sysmech.co.uk/case_study/mobile-network-performance-management/
