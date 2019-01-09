@@ -118,10 +118,4 @@ https://www.ibm.com/support/knowledgecenter/SSCJHT_1.0.0/com.ibm.swg.ba.cognos.p
 
 https://towardsdatascience.com/build-develop-and-deploy-a-machine-learning-model-to-predict-cars-price-using-gradient-boosting-2d4d78fddf09
 
-https://www.w3resource.com/python-exercises/string/
-
-http://www.jesse-anderson.com/2016/03/hadoop-cheat-sheet/
-
-https://www.qubole.com/resources/hive-function-cheat-sheet/
-
-https://mapr.com/ebooks/spark/apache-spark-cheat-sheet.html
+https://sebastianraschka.com/Articles/2014_pca_step_by_step.html
