@@ -1,0 +1,56 @@
+https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2
+
+http://gr33ndata.blogspot.com/2012/01/waitress-flask.html
+
+https://nickcdryan.com/2017/01/23/multi-label-classification-a-guided-tour/
+https://www.kaggle.com/olgabelitskaya/multi-label-classification-models
+
+python -m pip install networkx --index-url http://odyssey.apps.csintra.net/artifactory/api/pypi/pypi-release/simple --trusted-host odyssey.apps.csintra.net
+
+python -m pip install tensorflow --index-url http://odyssey.apps.csintra.net/artifactory/api/pypi/pypi-release/simple --trusted-host odyssey.apps.csintra.net
+pip3 install --user --upgrade tensorflow  # install in $HOME
+
+
+conda config --prepend channels http://odyssey.apps.csintra.net/artifactory/pypi-release/pkgs/main
+
+python -m pip install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.10.1-py3-none-any.whl --index-url http://odyssey.apps.csintra.net/artifactory/api/pypi/pypi-release/simple --trusted-host odyssey.apps.csintra.net
+pip install --ignore-installed --upgrade --user $TF_BINARY_URL
+
+https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.10.1-py3-none-any.whl
+
+
+NLP STuff
+
+
+coreNLP start
+pushd "\\NPNQ11P20110a\aarora33$\Documents\KYCD\stanford-coren
+java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -annotators "tokenize,ssplit,pos,lemma,parse,sentiment" -port 9000 -timeout 30000
+
+
+Spacy NER
+https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
+
+https://medium.com/greyatom/learning-pos-tagging-chunking-in-nlp-85f7f811a8cb
+
+senyiWordnet- library for entity based sentiment
+
+#Co reference resolution
+https://github.com/clarkkev/deep-coref
+
+https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30
+
+on the fly word embeddings
+https://arxiv.org/abs/1706.00286
+
+Tensorflow wheel
+https://github.com/fo40225/tensorflow-windows-wheel/tree/master/1.6.0/py36/CPU/sse2
+
+https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow
+
+
+https://eclerx.webex.com/eclerx/e.php?MTID=mcdb887p872afff08feefe36f914990bc
+
+
+
+https://www.analyticsvidhya.com/blog/2019/02/tutorial-semantic-segmentation-google-deeplab/
+
